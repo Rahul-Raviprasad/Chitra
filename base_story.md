@@ -1,0 +1,127 @@
+Chitra
+
+Chitrangada(Chitra)the warrior Princess, is the daughter of the King of Manipur. Their family was blessed
+
+with Lord Shiva’s grace of male descendents for over generations. Chitra being the only heir to her
+
+father was brought up as a son.
+
+Chitra grows up amoung swords and spears with strong hands that can bend a bow, but had no feminine
+
+wiles to win hearts with Cupid’s archery.
+
+Once, Vasanta (the Lord of Youth) and Madana (Lord of Love) ask Chitra who she is and what has been
+
+bothering her. She narrates her encounter with Arjuna where she elaborates:
+
+She once went to the deep forest thickets for a game of hunting along the Puma river, where she saw a
+
+man lying on a bed of dried leaves across her path. She tried asking him who he was and why was he
+
+lying on the ground, but he didn’t answer. Chitra pricked him with the point of her arrow, with which he
+
+stood of straight upon his feet. Seeing her boyish attire (countenance), a smile flickered on his face. For
+
+the first time Chitra felt like a woman standing before a man. She asked him who he was, to which he
+
+answered “I am Arjuna, of the great Kuru clan”. Chitra was spellbound, it was the same Arjuna, the idol
+
+of her dreams who vowed for a twelve year celibacy. With whom she had an ambition to challenge for a
+
+single combat and prove her skills against him. Lost in the pool of her thoughts, Chitra came to reality
+
+only to realise that Arjuna has vanished in the forest without a word. She cursed her foolishness to not
+
+greet, or speak or ask for forgiveness.
+
+The next morning, Chitra laid aside her man’s clothing and wore anklets, bracelets and a purple red
+
+gown which embraced her unpleasing body. She fled on her quest to find Arjuna in the forest temple of
+
+Lord Shiva. She approached Arjuna and confronted her desires. But Arjuna turned her down speaking of
+
+his vows of celibacy. Chitra cursed her herself and begged to Madana saying “the pride of my manlike
+
+strength is in vain, all my man’s training is crushed at your feet. O Lord teach me the art of Love, the
+
+power of the weak and weapon of the unarmed hand. Give me one single day of perfect beauty to win
+
+over Arjuna and have one night of love with him.
+
+Moved by her plea, Madana and Vasanta granted her wish not for a short span of a day, but for an
+
+entire year with him.
+
+Later during the day, Arjuna sees a beautiful lady(Chitra as a woman) by the lake in the forest and
+
+marvels at the true form of beauty he has ever seen. Taken by the utter beauty before his eyes, he
+
+strikes a conversation with her and requests to know what is it she’s searching for. Chitra says that she
+
+harbors a desire and pleads for its fulfillment daily to Lord Shiva. She searched for the famed son of the
+
+Kurus - Arjuna, the conqueror of the world, the one who vowed for 12 year celibacy. Smitten by her
+
+mere presence, Arjuna prompts that he would no longer abide by his vows. Even if this makes her
+
+happy, Chitra somewhere is heart-broken to realize that Arjuna is in love with a disguise, not with her
+
+true self and asks him to not offer his heart to an illusion.
+
+But Arjuna’s enticing gaze and his praises for her beauty haunt Chitra to make her forget her past life
+
+and her former existence. Lost to their passion and their hearts desires they spend a night together of
+
+unequalled ecstasy (Lost to their passion, they gratified their hearts desires in an ecstatic union of life).
+
+The next day, Chitra admits to Madana and Vasanta, to escape away from Arjuna realizing that its an
+
+illusion that Arjuna has fallen for and not her. She sees the beauty different from her true self and does
+
+not wish to continue the torturous encounter with Arjuna again.
+
+Lord Madana and Vasanta remind her, that it is this, that she had asked for. They assure her that by the
+
+end of the year, Arjuna would realize her true self and would embrace her as the true Chitra.
+
+Throughout the year, she spends her time with Arjuna giving him no clue of her past, her family or her
+
+relatives thinking that he would forget her and leave her by the end of the year. Soon (Intrigued)Arjuna
+
+grows restless to realize that Chitra has been secretive about her existence and her family and regards
+
+herself as a transient short lived illusion.
+
+The year is at its end and Chitra pleads for the last night to be the most beautiful with him. During the
+
+same time, Arjuna hears theVillagers to be troubled of the robbers from the Northern hills. They speak
+
+of Chitra the mighty warrior princess who was a terror to all the evil doers. But she has gone for a
+
+pilgrimage, and no one knows how to find her, for only she can bring peace to her people.
+
+Startled with the greatness of warden of the province- a woman, Arjuna grows curious to know more
+
+her and even inquires about her to Chitra herself. Never having told her name to Arjuna, Chitra tells him
+
+that the warrior Princess isn’t as beautiful.She assures that the villagers would take care of the
+
+robberies, and he need not worry. Arjuna denies to enjoy his last night with her and admits to be
+
+distracted with the Princess’ thoughts and has been eager to learn about her.
+
+Chitra asks him bitterly “ tell me if now at once, by some magic, I shake myself from this voluptuous
+
+being, to stand up straight with the strength of a daring heart, would I appeal to a man?” Confused by
+
+her question, Arjuna requests her to unveil herself for he couldn’t really love her as much as he wished
+
+and feels his love is incomplete.
+
+Chitra finally unveils her true self, in the clothes of a man, standing up with all her strength and might.
+
+She admits that she isn’t as beautiful as the illusion, but would stay with Arjuna for forever if he accepts
+
+her. She reveals that she carries his baby in her womb. Arjuna is pleased with the revelation and marries
+
+her rendering his life to be truly complete.
