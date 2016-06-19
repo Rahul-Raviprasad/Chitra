@@ -1,14 +1,18 @@
 Chitra
 
-Chitrangada(Chitra)the warrior Princess, is the daughter of the King of Manipur. Their family was blessed
+Story starts with introduction to Chitrangada:
 
-with Lord Shiva’s grace of male descendents for over generations. Chitra being the only heir to her
+Chitrangada (Chitra)the warrior Princess, is the daughter of the King of Manipur. Their family was
 
-father was brought up as a son.
+blessed with Lord Shiva’s grace of male descendents for over generations. Chitra being the only heir to
+
+her father was brought up as a son.
 
 Chitra grows up amoung swords and spears with strong hands that can bend a bow, but had no feminine
 
 wiles to win hearts with Cupid’s archery.
+
+Narrate how Chitra is restless and Madan and Vasanta approach her
 
 Once, Vasanta (the Lord of Youth) and Madana (Lord of Love) ask Chitra who she is and what has been
 
@@ -28,25 +32,35 @@ answered “I am Arjuna, of the great Kuru clan”. Chitra was spellbound, it wa
 
 of her dreams who vowed for a twelve year celibacy. With whom she had an ambition to challenge for a
 
-single combat and prove her skills against him. Lost in the pool of her thoughts, Chitra came to reality
+single combat and prove her skills against him. (we can introduce Arjuna as a character here)
 
-only to realise that Arjuna has vanished in the forest without a word. She cursed her foolishness to not
+Lost in the pool of her thoughts, Chitra came to reality only to realise that Arjuna has vanished in the
 
-greet, or speak or ask for forgiveness.
+forest without a word. She cursed her foolishness to not greet, or speak or ask for forgiveness.
 
 The next morning, Chitra laid aside her man’s clothing and wore anklets, bracelets and a purple red
 
 gown which embraced her unpleasing body. She fled on her quest to find Arjuna in the forest temple of
 
-Lord Shiva. She approached Arjuna and confronted her desires. But Arjuna turned her down speaking of
+Lord Shiva.
 
-his vows of celibacy. Chitra cursed her herself and begged to Madana saying “the pride of my manlike
+Checkpoint: She speaks to Arjuna or she comes back to the palace without a word to him
 
-strength is in vain, all my man’s training is crushed at your feet. O Lord teach me the art of Love, the
+She approached Arjuna and confronted her desires. But Arjuna turned her down speaking of his vows of
 
-power of the weak and weapon of the unarmed hand. Give me one single day of perfect beauty to win
+celibacy. (her Narration ends, back to story)
 
-over Arjuna and have one night of love with him.
+Checkpoint: what does Chitra wish for? 1) Impress him with Beauty, 2)Cast a Spell on him? Or…(more
+
+can be added)
+
+Chitra cursed her herself and begged to Madana saying “the pride of my manlike strength is in vain, all
+
+my man’s training is crushed at your feet. O Lord teach me the art of Love, the power of the weak and
+
+weapon of the unarmed hand. Give me one single day of perfect beauty to win over Arjuna and have
+
+one night of love with him.
 
 Moved by her plea, Madana and Vasanta granted her wish not for a short span of a day, but for an
 
@@ -56,7 +70,7 @@ Later during the day, Arjuna sees a beautiful lady(Chitra as a woman) by the lak
 
 marvels at the true form of beauty he has ever seen. Taken by the utter beauty before his eyes, he
 
-strikes a conversation with her and requests to know what is it she’s searching for. Chitra says that she
+strikes a conversation with her and requests to know what is it that she’s searching. Chitra says that she
 
 harbors a desire and pleads for its fulfillment daily to Lord Shiva. She searched for the famed son of the
 
@@ -70,9 +84,15 @@ true self and asks him to not offer his heart to an illusion.
 
 But Arjuna’s enticing gaze and his praises for her beauty haunt Chitra to make her forget her past life
 
-and her former existence. Lost to their passion and their hearts desires they spend a night together of
+and her former existence.
 
-unequalled ecstasy (Lost to their passion, they gratified their hearts desires in an ecstatic union of life).
+Checkpoint: 1)Chitra chooses to stay with Arjuna that night, 2) Chitra fleds off to her Palace to turn
+
+back the spell, 3)Chitra tells him about her true self.
+
+Lost to their passion and their hearts desires they spend a night together of unequalled ecstasy (Lost to
+
+their passion, they gratified their hearts desires in an ecstatic union of life).
 
 The next day, Chitra admits to Madana and Vasanta, to escape away from Arjuna realizing that its an
 
@@ -84,6 +104,10 @@ Lord Madana and Vasanta remind her, that it is this, that she had asked for. The
 
 end of the year, Arjuna would realize her true self and would embrace her as the true Chitra.
 
+Checkpoint: 1)Chitra chooses to meet Arjuna in the same form anyway, 2) CHitra withdraws and
+
+requests to take back the spell, 3) Chitra tells Arjuna of her true self.
+
 Throughout the year, she spends her time with Arjuna giving him no clue of her past, her family or her
 
 relatives thinking that he would forget her and leave her by the end of the year. Soon (Intrigued)Arjuna
@@ -94,7 +118,7 @@ herself as a transient short lived illusion.
 
 The year is at its end and Chitra pleads for the last night to be the most beautiful with him. During the
 
-same time, Arjuna hears theVillagers to be troubled of the robbers from the Northern hills. They speak
+same time, Arjuna hears the Villagers to be troubled of the robbers from the Northern hills. They speak
 
 of Chitra the mighty warrior princess who was a terror to all the evil doers. But she has gone for a
 
@@ -104,11 +128,15 @@ Startled with the greatness of warden of the province- a woman, Arjuna grows cur
 
 her and even inquires about her to Chitra herself. Never having told her name to Arjuna, Chitra tells him
 
-that the warrior Princess isn’t as beautiful.She assures that the villagers would take care of the
+that the warrior Princess isn’t as beautiful. She assures that the villagers would take care of the
 
 robberies, and he need not worry. Arjuna denies to enjoy his last night with her and admits to be
 
 distracted with the Princess’ thoughts and has been eager to learn about her.
+
+Checkpoint: 1) Chitra chooses to confront, 2) She feels disheartened and leaves to her Palace without
+
+a word., 3) Convinces Arjuna that Chitra isn’t as desirable.
 
 Chitra asks him bitterly “ tell me if now at once, by some magic, I shake myself from this voluptuous
 
