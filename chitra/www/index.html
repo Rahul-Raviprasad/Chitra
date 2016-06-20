@@ -1,203 +1,184 @@
 <!DOCTYPE html>
-<!--
-    Licensed to the Apache Software Foundation (ASF) under one
-    or more contributor license agreements.  See the NOTICE file
-    distributed with this work for additional information
-    regarding copyright ownership.  The ASF licenses this file
-    to you under the Apache License, Version 2.0 (the
-    "License"); you may not use this file except in compliance
-    with the License.  You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing,
-    software distributed under the License is distributed on an
-    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-     KIND, either express or implied.  See the License for the
-    specific language governing permissions and limitations
-    under the License.
--->
 <html>
-    <head>
-        <!--
-        Customize this policy to fit your own app's needs. For more guidance, see:
-            https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md#content-security-policy
-        Some notes:
-            * gap: is required only on iOS (when using UIWebView) and is needed for JS->native communication
-            * https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly
-            * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
-                * Enable inline JS: add 'unsafe-inline' to default-src
-        -->
-        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
-        <meta name="format-detection" content="telephone=no">
-        <meta name="msapplication-tap-highlight" content="no">
-        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
-        <link rel="stylesheet" type="text/css" href="css/index.css">
-        <title>Chitra: The Warrior Princess</title>
-    </head>
-    <body>
-        <div class="app">
-            <h1>Apache Cordova</h1>
-            <div id="deviceready" class="blink">
-                <p class="event listening">Connecting to Device</p>
-                <p class="event received">Chitra
+<head>
+	<title>Chitra: The Warrior Princess</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--jquery and jquery Mobile-->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/jquery.mobile-1.4.5.min.js"></script>
+  <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />
 
-                Story starts with introduction to Chitrangada:
+  <link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+<body>
 
-                Chitrangada (Chitra)the warrior Princess, is the daughter of the King of Manipur. Their family was
+  <div data-role="page">
 
-                blessed with Lord Shiva’s grace of male descendents for over generations. Chitra being the only heir to
+  	<div data-role="header">
+  		<h1>Chitra: The warrior princess</h1>
+  	</div><!-- /header -->
 
-                her father was brought up as a son.
+  	<div role="main" class="ui-content">
+  		<p>Story starts with introduction to Chitrangada:
 
-                Chitra grows up amoung swords and spears with strong hands that can bend a bow, but had no feminine
+      Chitrangada (Chitra)the warrior Princess, is the daughter of the King of Manipur. Their family was
 
-                wiles to win hearts with Cupid’s archery.
+      blessed with Lord Shiva’s grace of male descendents for over generations. Chitra being the only heir to
 
-                Narrate how Chitra is restless and Madan and Vasanta approach her
+      her father was brought up as a son.
 
-                Once, Vasanta (the Lord of Youth) and Madana (Lord of Love) ask Chitra who she is and what has been
+      Chitra grows up amoung swords and spears with strong hands that can bend a bow, but had no feminine
 
-                bothering her. She narrates her encounter with Arjuna where she elaborates:
+      wiles to win hearts with Cupid’s archery.
 
-                She once went to the deep forest thickets for a game of hunting along the Puma river, where she saw a
+      Narrate how Chitra is restless and Madan and Vasanta approach her
 
-                man lying on a bed of dried leaves across her path. She tried asking him who he was and why was he
+      Once, Vasanta (the Lord of Youth) and Madana (Lord of Love) ask Chitra who she is and what has been
 
-                lying on the ground, but he didn’t answer. Chitra pricked him with the point of her arrow, with which he
+      bothering her. She narrates her encounter with Arjuna where she elaborates:
 
-                stood of straight upon his feet. Seeing her boyish attire (countenance), a smile flickered on his face. For
+      She once went to the deep forest thickets for a game of hunting along the Puma river, where she saw a
 
-                the first time Chitra felt like a woman standing before a man. She asked him who he was, to which he
+      man lying on a bed of dried leaves across her path. She tried asking him who he was and why was he
 
-                answered “I am Arjuna, of the great Kuru clan”. Chitra was spellbound, it was the same Arjuna, the idol
+      lying on the ground, but he didn’t answer. Chitra pricked him with the point of her arrow, with which he
 
-                of her dreams who vowed for a twelve year celibacy. With whom she had an ambition to challenge for a
+      stood of straight upon his feet. Seeing her boyish attire (countenance), a smile flickered on his face. For
 
-                single combat and prove her skills against him. (we can introduce Arjuna as a character here)
+      the first time Chitra felt like a woman standing before a man. She asked him who he was, to which he
 
-                Lost in the pool of her thoughts, Chitra came to reality only to realise that Arjuna has vanished in the
+      answered “I am Arjuna, of the great Kuru clan”. Chitra was spellbound, it was the same Arjuna, the idol
 
-                forest without a word. She cursed her foolishness to not greet, or speak or ask for forgiveness.
+      of her dreams who vowed for a twelve year celibacy. With whom she had an ambition to challenge for a
 
-                The next morning, Chitra laid aside her man’s clothing and wore anklets, bracelets and a purple red
+      single combat and prove her skills against him. (we can introduce Arjuna as a character here)
 
-                gown which embraced her unpleasing body. She fled on her quest to find Arjuna in the forest temple of
+      Lost in the pool of her thoughts, Chitra came to reality only to realise that Arjuna has vanished in the
 
-                Lord Shiva.
+      forest without a word. She cursed her foolishness to not greet, or speak or ask for forgiveness.
 
-                Checkpoint: She speaks to Arjuna or she comes back to the palace without a word to him
+      The next morning, Chitra laid aside her man’s clothing and wore anklets, bracelets and a purple red
 
-                She approached Arjuna and confronted her desires. But Arjuna turned her down speaking of his vows of
+      gown which embraced her unpleasing body. She fled on her quest to find Arjuna in the forest temple of
 
-                celibacy. (her Narration ends, back to story)
+      Lord Shiva.
 
-                Checkpoint: what does Chitra wish for? 1) Impress him with Beauty, 2)Cast a Spell on him? Or…(more
+      Checkpoint: She speaks to Arjuna or she comes back to the palace without a word to him
 
-                can be added)
+      She approached Arjuna and confronted her desires. But Arjuna turned her down speaking of his vows of
 
-                Chitra cursed her herself and begged to Madana saying “the pride of my manlike strength is in vain, all
+      celibacy. (her Narration ends, back to story)
 
-                my man’s training is crushed at your feet. O Lord teach me the art of Love, the power of the weak and
+      Checkpoint: what does Chitra wish for? 1) Impress him with Beauty, 2)Cast a Spell on him? Or…(more
 
-                weapon of the unarmed hand. Give me one single day of perfect beauty to win over Arjuna and have
+      can be added)
 
-                one night of love with him.
+      Chitra cursed her herself and begged to Madana saying “the pride of my manlike strength is in vain, all
 
-                Moved by her plea, Madana and Vasanta granted her wish not for a short span of a day, but for an
+      my man’s training is crushed at your feet. O Lord teach me the art of Love, the power of the weak and
 
-                entire year with him.
+      weapon of the unarmed hand. Give me one single day of perfect beauty to win over Arjuna and have
 
-                Later during the day, Arjuna sees a beautiful lady(Chitra as a woman) by the lake in the forest and
+      one night of love with him.
 
-                marvels at the true form of beauty he has ever seen. Taken by the utter beauty before his eyes, he
+      Moved by her plea, Madana and Vasanta granted her wish not for a short span of a day, but for an
 
-                strikes a conversation with her and requests to know what is it that she’s searching. Chitra says that she
+      entire year with him.
 
-                harbors a desire and pleads for its fulfillment daily to Lord Shiva. She searched for the famed son of the
+      Later during the day, Arjuna sees a beautiful lady(Chitra as a woman) by the lake in the forest and
 
-                Kurus - Arjuna, the conqueror of the world, the one who vowed for 12 year celibacy. Smitten by her
+      marvels at the true form of beauty he has ever seen. Taken by the utter beauty before his eyes, he
 
-                mere presence, Arjuna prompts that he would no longer abide by his vows. Even if this makes her
+      strikes a conversation with her and requests to know what is it that she’s searching. Chitra says that she
 
-                happy, Chitra somewhere is heart-broken to realize that Arjuna is in love with a disguise, not with her
+      harbors a desire and pleads for its fulfillment daily to Lord Shiva. She searched for the famed son of the
 
-                true self and asks him to not offer his heart to an illusion.
+      Kurus - Arjuna, the conqueror of the world, the one who vowed for 12 year celibacy. Smitten by her
 
-                But Arjuna’s enticing gaze and his praises for her beauty haunt Chitra to make her forget her past life
+      mere presence, Arjuna prompts that he would no longer abide by his vows. Even if this makes her
 
-                and her former existence.
+      happy, Chitra somewhere is heart-broken to realize that Arjuna is in love with a disguise, not with her
 
-                Checkpoint: 1)Chitra chooses to stay with Arjuna that night, 2) Chitra fleds off to her Palace to turn
+      true self and asks him to not offer his heart to an illusion.
 
-                back the spell, 3)Chitra tells him about her true self.
+      But Arjuna’s enticing gaze and his praises for her beauty haunt Chitra to make her forget her past life
 
-                Lost to their passion and their hearts desires they spend a night together of unequalled ecstasy (Lost to
+      and her former existence.
 
-                their passion, they gratified their hearts desires in an ecstatic union of life).
+      Checkpoint: 1)Chitra chooses to stay with Arjuna that night, 2) Chitra fleds off to her Palace to turn
 
-                The next day, Chitra admits to Madana and Vasanta, to escape away from Arjuna realizing that its an
+      back the spell, 3)Chitra tells him about her true self.
 
-                illusion that Arjuna has fallen for and not her. She sees the beauty different from her true self and does
+      Lost to their passion and their hearts desires they spend a night together of unequalled ecstasy (Lost to
 
-                not wish to continue the torturous encounter with Arjuna again.
+      their passion, they gratified their hearts desires in an ecstatic union of life).
 
-                Lord Madana and Vasanta remind her, that it is this, that she had asked for. They assure her that by the
+      The next day, Chitra admits to Madana and Vasanta, to escape away from Arjuna realizing that its an
 
-                end of the year, Arjuna would realize her true self and would embrace her as the true Chitra.
+      illusion that Arjuna has fallen for and not her. She sees the beauty different from her true self and does
 
-                Checkpoint: 1)Chitra chooses to meet Arjuna in the same form anyway, 2) CHitra withdraws and
+      not wish to continue the torturous encounter with Arjuna again.
 
-                requests to take back the spell, 3) Chitra tells Arjuna of her true self.
+      Lord Madana and Vasanta remind her, that it is this, that she had asked for. They assure her that by the
 
-                Throughout the year, she spends her time with Arjuna giving him no clue of her past, her family or her
+      end of the year, Arjuna would realize her true self and would embrace her as the true Chitra.
 
-                relatives thinking that he would forget her and leave her by the end of the year. Soon (Intrigued)Arjuna
+      Checkpoint: 1)Chitra chooses to meet Arjuna in the same form anyway, 2) CHitra withdraws and
 
-                grows restless to realize that Chitra has been secretive about her existence and her family and regards
+      requests to take back the spell, 3) Chitra tells Arjuna of her true self.
 
-                herself as a transient short lived illusion.
+      Throughout the year, she spends her time with Arjuna giving him no clue of her past, her family or her
 
-                The year is at its end and Chitra pleads for the last night to be the most beautiful with him. During the
+      relatives thinking that he would forget her and leave her by the end of the year. Soon (Intrigued)Arjuna
 
-                same time, Arjuna hears the Villagers to be troubled of the robbers from the Northern hills. They speak
+      grows restless to realize that Chitra has been secretive about her existence and her family and regards
 
-                of Chitra the mighty warrior princess who was a terror to all the evil doers. But she has gone for a
+      herself as a transient short lived illusion.
 
-                pilgrimage, and no one knows how to find her, for only she can bring peace to her people.
+      The year is at its end and Chitra pleads for the last night to be the most beautiful with him. During the
 
-                Startled with the greatness of warden of the province- a woman, Arjuna grows curious to know more
+      same time, Arjuna hears the Villagers to be troubled of the robbers from the Northern hills. They speak
 
-                her and even inquires about her to Chitra herself. Never having told her name to Arjuna, Chitra tells him
+      of Chitra the mighty warrior princess who was a terror to all the evil doers. But she has gone for a
 
-                that the warrior Princess isn’t as beautiful. She assures that the villagers would take care of the
+      pilgrimage, and no one knows how to find her, for only she can bring peace to her people.
 
-                robberies, and he need not worry. Arjuna denies to enjoy his last night with her and admits to be
+      Startled with the greatness of warden of the province- a woman, Arjuna grows curious to know more
 
-                distracted with the Princess’ thoughts and has been eager to learn about her.
+      her and even inquires about her to Chitra herself. Never having told her name to Arjuna, Chitra tells him
 
-                Checkpoint: 1) Chitra chooses to confront, 2) She feels disheartened and leaves to her Palace without
+      that the warrior Princess isn’t as beautiful. She assures that the villagers would take care of the
 
-                a word., 3) Convinces Arjuna that Chitra isn’t as desirable.
+      robberies, and he need not worry. Arjuna denies to enjoy his last night with her and admits to be
 
-                Chitra asks him bitterly “ tell me if now at once, by some magic, I shake myself from this voluptuous
+      distracted with the Princess’ thoughts and has been eager to learn about her.
 
-                being, to stand up straight with the strength of a daring heart, would I appeal to a man?” Confused by
+      Checkpoint: 1) Chitra chooses to confront, 2) She feels disheartened and leaves to her Palace without
 
-                her question, Arjuna requests her to unveil herself for he couldn’t really love her as much as he wished
+      a word., 3) Convinces Arjuna that Chitra isn’t as desirable.
 
-                and feels his love is incomplete.
+      Chitra asks him bitterly “ tell me if now at once, by some magic, I shake myself from this voluptuous
 
-                Chitra finally unveils her true self, in the clothes of a man, standing up with all her strength and might.
+      being, to stand up straight with the strength of a daring heart, would I appeal to a man?” Confused by
 
-                She admits that she isn’t as beautiful as the illusion, but would stay with Arjuna for forever if he accepts
+      her question, Arjuna requests her to unveil herself for he couldn’t really love her as much as he wished
 
-                her. She reveals that she carries his baby in her womb. Arjuna is pleased with the revelation and marries
+      and feels his love is incomplete.
 
-                her rendering his life to be truly complete.
-</p>
-            </div>
-        </div>
+      Chitra finally unveils her true self, in the clothes of a man, standing up with all her strength and might.
+
+      She admits that she isn’t as beautiful as the illusion, but would stay with Arjuna for forever if he accepts
+
+      her. She reveals that she carries his baby in her womb. Arjuna is pleased with the revelation and marries
+
+      her rendering his life to be truly complete.</p>
+  	</div><!-- /content -->
+
+  	<div data-role="footer">
+  		<h4>More later..</h4>
+  	</div><!-- /footer -->
+  </div><!-- /page -->
+
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
     </body>
