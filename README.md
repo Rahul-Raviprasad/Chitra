@@ -7,3 +7,11 @@ then run the following commands to build an android app.
  $ cordova build
  $ cordova emulate android
  $ cordova run android
+
+Contributions
+
+If you would like to contribute to this. Please let me know, you can also raise
+and issue or mail me directly to rahul.raviprasad@gmail.com
+
+You can dunp non code related stuff to Game and Story directory.
+Thanks!
